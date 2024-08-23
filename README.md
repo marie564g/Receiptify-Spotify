@@ -14,17 +14,19 @@ Receiptify Spotify is a web application that transforms your Spotify listening h
 
 ## Technologies Used
 
-- **React.js**: Frontend development
-- **Spotify API**: For accessing user's music data
-- **CSS**: Styling and layout
-- **JavaScript**: Logic and interactivity
+- **React.js**: A JavaScript library for building user interfaces. It enables the creation of dynamic, single-page applications with reusable components.
+- **Spotify API**: Provides access to Spotify's vast music catalog and user data, allowing the app to fetch and analyze user listening history.
+- **CSS**: Used for styling the application's user interface and creating a responsive design.
+- **JavaScript**: The primary language for writing the application's logic and interactions.
+- **Node.js**: A JavaScript runtime used to build and run the development server.
+- **npm**: The package manager used to manage project dependencies and scripts.
 
 ## Author
 
 **Marie Guinn**
 
 - **Email**: marie564guinn@outlook.com
-- **Website**: Receiptify Spotify
+- **Website**: [Receiptify Spotify](https://www.receiptifyspotify.com)
 
 Marie is a passionate software developer with a master's degree in Computer Science. She has extensive experience in frontend and backend development, with a particular interest in creating innovative web applications. Known for her problem-solving skills and helping nature, Marie is always eager to contribute to open-source projects.
 
@@ -40,26 +42,18 @@ To get started with Receiptify Spotify, follow the steps below:
    cd receiptify-spotify
 3. **Install Dependencies**:
    ```bash
-   npm install
 4. **Start the Development Server**:
    ```bash
    npm start
 ## **Contribution Guidelines**
-
-  We welcome contributions! To contribute:
+We welcome contributions! To contribute:
 
 - Fork the repository.
-
 - Create a new branch for your changes.
-
 - Follow the project's coding standards.
-
 - Commit your changes and push to your fork.
-
 - Open a pull request to the main branch.
-
 Refer to the CONTRIBUTING.md file for detailed guidelines.
 
 ## **Getting Help**
-
 If you encounter any issues or have questions, feel free to open an issue in the GitHub repository. We're here to help!
