@@ -26,7 +26,7 @@ Receiptify Spotify is a web application that transforms your Spotify listening h
 **Marie Guinn**
 
 - **Email**: marie564guinn@outlook.com
-- **Website**: [Receiptify Spotify](https://www.receiptifyspotify.com)
+- **Website**: Receiptify Spotify
 
 Marie is a passionate software developer with a master's degree in Computer Science. She has extensive experience in frontend and backend development, with a particular interest in creating innovative web applications. Known for her problem-solving skills and helping nature, Marie is always eager to contribute to open-source projects.
 
