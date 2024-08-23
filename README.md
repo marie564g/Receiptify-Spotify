@@ -35,3 +35,31 @@ To get started with Receiptify Spotify, follow the steps below:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/receiptify-spotify.git
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd receiptify-spotify
+3. **Install Dependencies**:
+   ```bash
+   npm install
+4. **Start the Development Server**:
+   ```bash
+   npm start
+## **Contribution Guidelines**
+
+  We welcome contributions! To contribute:
+
+- Fork the repository.
+
+- Create a new branch for your changes.
+
+- Follow the project's coding standards.
+
+- Commit your changes and push to your fork.
+
+- Open a pull request to the main branch.
+
+Refer to the CONTRIBUTING.md file for detailed guidelines.
+
+## **Getting Help**
+
+If you encounter any issues or have questions, feel free to open an issue in the GitHub repository. We're here to help!
